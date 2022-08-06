@@ -7,6 +7,7 @@
     <list default="true" id="a92e17f9-b79d-4632-9612-2b42f029bbaf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lk/ijse/gdse/ClientApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/ijse/gdse/ClientApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lk/ijse/gdse/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/ijse/gdse/ServerApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659798111648</updated>
-      <workItem from="1659798113070" duration="3716000" />
+      <workItem from="1659798113070" duration="5387000" />
     </task>
     <servers />
   </component>
